@@ -1,0 +1,60 @@
+*{
+    box-sizing:border-box;
+}
+.row{
+    border:solid 2px red;
+    height:150px;
+    font-size:0px;
+   
+}
+.col{
+    border:solid 1px black;
+    height:100%;
+    width:33.33%;
+    float:left;
+}
+.col1{
+    border:black 1px solid;
+    width:50%;
+    height:100%;
+    float:left; 
+}
+.row1{
+    border:blue 1px solid;
+    height: 50%;
+    width:100%;
+}
+.col2{
+    border:black 2px solid;
+    height:100%;
+    width:30%;
+    float:left;
+}
+.row2{
+    border:blue 1px solid;
+    height:50%;
+    width:100%;
+}
+.col3{
+    border:solid 1px black;
+    height:100%;
+    width:15%;
+    float:left;
+}
+.col4{
+    border:solid 1px black;
+    height:100%;
+    width:40%;
+    float:left;
+}
+.row3{
+    border:1px solid blue;
+    height:33.33%;
+    width:100%;
+}
+.col5{
+    border:1px solid black;
+    height:100%;
+    width:50%;
+    float:left;
+}
